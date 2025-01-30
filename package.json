@@ -6,7 +6,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./node/build.js"
   },
-  "author": "",
+  "author": "Nando Muñoz",
   "license": "MIT",
-  "description": ""
+  "description": "A customizable web component for displaying an animated loading indicator.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nandovejer/illo-loader.git"
+  },
+  "keywords": [
+    "web-component",
+    "loader",
+    "loading-indicator",
+    "custom-element"
+  ]
 }
