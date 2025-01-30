@@ -2,6 +2,8 @@
 
 `illo-loader` is a custom web component that displays an animated loading indicator. This web-component is very simple to set up and easy to use in any web project.
 
+![Image of examples of loader type 'illo-loader'](illoLoader.gif)
+
 ## Features
 
 - Customizable loading symbol.
