@@ -1,6 +1,6 @@
 # Illo Loader
 
-`illo-loader` is a custom web component that displays an animated loading indicator. This component is highly customizable and easy to use in any web project.
+`illo-loader` is a custom web component that displays an animated loading indicator. This web-component is very simple to set up and easy to use in any web project.
 
 ## Features
 
@@ -13,7 +13,7 @@
 You can also use `illo-loader` by including it from a CDN. Add the following script tag in the `<head>` section of your HTML file:
 
 ```html
-<script type="module" src="https://cdn.example.com/illoLoader.min.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/nandovejer/illo-loader@latest/illo-loader.js"></script>
 ```
 
 To use `illo-loader` in your project, you need to import it in your HTML file. Add the following script tag in the `<head>` section of your HTML file:
